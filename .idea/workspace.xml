@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="dfff6092-b8e3-4781-8cb6-644ee3ef4e4d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-about.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-categories-engagements.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-categories-engagements.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/page-gallery-engagements.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-gallery-engagements.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/page-gallery-family.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-gallery-family.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/page-gallery-portraits.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-gallery-portraits.html" afterDir="false" />
@@ -80,7 +81,7 @@
       <workItem from="1652601459117" duration="1532000" />
       <workItem from="1652854842993" duration="12920000" />
       <workItem from="1653733553547" duration="2337000" />
-      <workItem from="1654003480450" duration="9517000" />
+      <workItem from="1654003480450" duration="12634000" />
     </task>
     <task id="LOCAL-00001" summary="[dev] initial commit">
       <created>1654046831358</created>
@@ -89,7 +90,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654046831359</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="[dev] grid adjustments">
+      <created>1654060631920</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654060631921</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -97,13 +105,19 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[dev] initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="[dev] initial commit" />
+    <MESSAGE value="[dev] grid adjustments" />
+    <option name="LAST_COMMIT_MESSAGE" value="[dev] grid adjustments" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="424" y="75" key="CommitChangelistDialog2" timestamp="1654046828364">
-      <screen x="0" y="25" width="1680" height="956" />
+    <state x="363" y="25" width="831" height="806" key="CommitChangelistDialog2" timestamp="1654060631691">
+      <screen x="0" y="25" width="1440" height="806" />
     </state>
+    <state x="363" y="25" width="831" height="806" key="CommitChangelistDialog2/0.25.1440.806/-288.-1055.1920.1055@0.25.1440.806" timestamp="1654060631691" />
     <state x="424" y="75" key="CommitChangelistDialog2/0.25.1680.956@0.25.1680.956" timestamp="1654046828364" />
+    <state x="440" y="165" key="Vcs.Push.Dialog.v2" timestamp="1654060634817">
+      <screen x="0" y="25" width="1440" height="806" />
+    </state>
+    <state x="440" y="165" key="Vcs.Push.Dialog.v2/0.25.1440.806/-288.-1055.1920.1055@0.25.1440.806" timestamp="1654060634817" />
     <state x="100" y="125" width="1480" height="756" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1654046734772">
       <screen x="0" y="25" width="1680" height="956" />
     </state>
