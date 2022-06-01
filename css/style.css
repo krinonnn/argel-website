@@ -142,6 +142,19 @@ Name: style.css
 	
 ====================================================*/
 
+@media screen and (max-width: 700px) {
+    .mobile-cover {
+        background: url('../images/mobile-hero.jpg') center no-repeat;
+        background-size: auto 100% ;
+    }
+
+    .home-logo {
+        margin-top: 250px;
+    }
+}
+
+
+
 
 
 
