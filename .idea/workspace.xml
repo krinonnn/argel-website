@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dfff6092-b8e3-4781-8cb6-644ee3ef4e4d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-categories-engagements.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-categories-engagements.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-gallery-engagements.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-gallery-engagements.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-gallery-family.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-gallery-family.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/page-gallery-portraits.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-gallery-portraits.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +82,7 @@
       <workItem from="1652854842993" duration="12920000" />
       <workItem from="1653733553547" duration="2337000" />
       <workItem from="1654003480450" duration="26072000" />
-      <workItem from="1654340623826" duration="3414000" />
+      <workItem from="1654340623826" duration="3856000" />
     </task>
     <task id="LOCAL-00001" summary="[dev] initial commit">
       <created>1654046831358</created>
@@ -130,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654405926273</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="[modify] updates&#10;&#10;- slider image url update: homepage">
+      <created>1654406071680</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1654406071680</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -145,27 +155,28 @@
     <MESSAGE value="[modify] updates&#10;&#10;updated home links and gallery link" />
     <MESSAGE value="[modify] updates&#10;&#10;fixed links" />
     <MESSAGE value="[modify] updates&#10;&#10;- fixed links&#10;- updated images&#10;- removed pencil grid" />
-    <option name="LAST_COMMIT_MESSAGE" value="[modify] updates&#10;&#10;- fixed links&#10;- updated images&#10;- removed pencil grid" />
+    <MESSAGE value="[modify] updates&#10;&#10;- slider image url update: homepage" />
+    <option name="LAST_COMMIT_MESSAGE" value="[modify] updates&#10;&#10;- slider image url update: homepage" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="424" y="42" width="831" height="806" key="CommitChangelistDialog2" timestamp="1654405919954">
+    <state x="424" y="42" width="831" height="806" key="CommitChangelistDialog2" timestamp="1654406071536">
       <screen x="0" y="25" width="1680" height="956" />
     </state>
     <state x="363" y="25" width="831" height="806" key="CommitChangelistDialog2/0.25.1440.806/-288.-1055.1920.1055@0.25.1440.806" timestamp="1654339395387" />
-    <state x="424" y="42" key="CommitChangelistDialog2/0.25.1680.956@0.25.1680.956" timestamp="1654405919954" />
-    <state x="513" y="191" key="Vcs.Push.Dialog.v2" timestamp="1654405933371">
+    <state x="424" y="42" key="CommitChangelistDialog2/0.25.1680.956@0.25.1680.956" timestamp="1654406071536" />
+    <state x="513" y="191" key="Vcs.Push.Dialog.v2" timestamp="1654406073252">
       <screen x="0" y="25" width="1680" height="956" />
     </state>
     <state x="440" y="165" key="Vcs.Push.Dialog.v2/0.25.1440.806/-288.-1055.1920.1055@0.25.1440.806" timestamp="1654340332065" />
-    <state x="513" y="191" key="Vcs.Push.Dialog.v2/0.25.1680.956@0.25.1680.956" timestamp="1654405933371" />
+    <state x="513" y="191" key="Vcs.Push.Dialog.v2/0.25.1680.956@0.25.1680.956" timestamp="1654406073252" />
     <state x="100" y="125" width="1480" height="756" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1654046734772">
       <screen x="0" y="25" width="1680" height="956" />
     </state>
     <state x="100" y="125" width="1480" height="756" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.25.1680.956@0.25.1680.956" timestamp="1654046734772" />
-    <state x="512" y="183" width="656" height="640" key="find.popup" timestamp="1654405518599">
+    <state x="512" y="183" width="656" height="640" key="find.popup" timestamp="1654426869230">
       <screen x="0" y="25" width="1680" height="956" />
     </state>
     <state x="439" y="158" width="567" height="540" key="find.popup/0.25.1440.806/-288.-1055.1920.1055@0.25.1440.806" timestamp="1654066034502" />
-    <state x="512" y="183" width="656" height="640" key="find.popup/0.25.1680.956@0.25.1680.956" timestamp="1654405518599" />
+    <state x="512" y="183" width="656" height="640" key="find.popup/0.25.1680.956@0.25.1680.956" timestamp="1654426869230" />
   </component>
 </project>
