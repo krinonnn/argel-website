@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dfff6092-b8e3-4781-8cb6-644ee3ef4e4d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/images/square-logo.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/page-about.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page-categories-engagements.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-categories-engagements.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/page-gallery-engagements.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-gallery-engagements.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page-gallery-family.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-gallery-family.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page-gallery-portraits.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-gallery-portraits.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/page-gallery-wedding.html" beforeDir="false" afterPath="$PROJECT_DIR$/page-gallery-wedding.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,8 +53,11 @@
       <recent name="$PROJECT_DIR$/images/home" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
+  <component name="RunManager" selected="JavaScript Debug.page-gallery-engagements.html">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/argel-website/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="page-gallery-engagements.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/argel-website/page-gallery-engagements.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="page-gallery-wedding.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/argel-website/page-gallery-wedding.html" useBuiltInWebServerPort="true">
@@ -68,6 +65,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.page-gallery-engagements.html" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.page-gallery-wedding.html" />
       </list>
@@ -88,7 +86,7 @@
       <workItem from="1653733553547" duration="2337000" />
       <workItem from="1654003480450" duration="26072000" />
       <workItem from="1654340623826" duration="4364000" />
-      <workItem from="1654428520505" duration="2402000" />
+      <workItem from="1654428520505" duration="2988000" />
     </task>
     <task id="LOCAL-00001" summary="[dev] initial commit">
       <created>1654046831358</created>
@@ -153,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654426913731</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="[modify] updates&#10;&#10;- hover styling&#10;- contact to ig page">
+      <created>1654497772538</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1654497772538</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -170,27 +175,28 @@
     <MESSAGE value="[modify] updates&#10;&#10;- fixed links&#10;- updated images&#10;- removed pencil grid" />
     <MESSAGE value="[modify] updates&#10;&#10;- slider image url update: homepage" />
     <MESSAGE value="[modify] updates&#10;&#10;- removed New york copy" />
-    <option name="LAST_COMMIT_MESSAGE" value="[modify] updates&#10;&#10;- removed New york copy" />
+    <MESSAGE value="[modify] updates&#10;&#10;- hover styling&#10;- contact to ig page" />
+    <option name="LAST_COMMIT_MESSAGE" value="[modify] updates&#10;&#10;- hover styling&#10;- contact to ig page" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="424" y="42" width="831" height="806" key="CommitChangelistDialog2" timestamp="1654426913512">
+    <state x="424" y="42" width="831" height="806" key="CommitChangelistDialog2" timestamp="1654497772175">
       <screen x="0" y="25" width="1680" height="956" />
     </state>
     <state x="363" y="25" width="831" height="806" key="CommitChangelistDialog2/0.25.1440.806/-288.-1055.1920.1055@0.25.1440.806" timestamp="1654339395387" />
-    <state x="424" y="42" key="CommitChangelistDialog2/0.25.1680.956@0.25.1680.956" timestamp="1654426913512" />
-    <state x="513" y="191" key="Vcs.Push.Dialog.v2" timestamp="1654426915799">
+    <state x="424" y="42" key="CommitChangelistDialog2/0.25.1680.956@0.25.1680.956" timestamp="1654497772175" />
+    <state x="513" y="191" key="Vcs.Push.Dialog.v2" timestamp="1654497773718">
       <screen x="0" y="25" width="1680" height="956" />
     </state>
     <state x="440" y="165" key="Vcs.Push.Dialog.v2/0.25.1440.806/-288.-1055.1920.1055@0.25.1440.806" timestamp="1654340332065" />
-    <state x="513" y="191" key="Vcs.Push.Dialog.v2/0.25.1680.956@0.25.1680.956" timestamp="1654426915799" />
+    <state x="513" y="191" key="Vcs.Push.Dialog.v2/0.25.1680.956@0.25.1680.956" timestamp="1654497773718" />
     <state x="100" y="125" width="1480" height="756" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1654046734772">
       <screen x="0" y="25" width="1680" height="956" />
     </state>
     <state x="100" y="125" width="1480" height="756" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.25.1680.956@0.25.1680.956" timestamp="1654046734772" />
-    <state x="512" y="183" width="656" height="640" key="find.popup" timestamp="1654497633110">
+    <state x="512" y="183" width="656" height="640" key="find.popup" timestamp="1654497735960">
       <screen x="0" y="25" width="1680" height="956" />
     </state>
     <state x="439" y="158" width="567" height="540" key="find.popup/0.25.1440.806/-288.-1055.1920.1055@0.25.1440.806" timestamp="1654066034502" />
-    <state x="512" y="183" width="656" height="640" key="find.popup/0.25.1680.956@0.25.1680.956" timestamp="1654497633110" />
+    <state x="512" y="183" width="656" height="640" key="find.popup/0.25.1680.956@0.25.1680.956" timestamp="1654497735960" />
   </component>
 </project>
