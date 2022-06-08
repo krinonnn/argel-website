@@ -141,6 +141,10 @@ Name: style.css
 
 	
 ====================================================*/
+.home-logo {
+    margin: 0 auto;
+}
+
 
 @media screen and (max-width: 700px) {
     .mobile-cover {
@@ -149,8 +153,10 @@ Name: style.css
     }
 
     .home-logo {
-        margin-top: 250px;
+        margin: 80vw auto auto auto;
     }
+
+
 }
 
 
