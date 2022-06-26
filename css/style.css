@@ -145,6 +145,14 @@ Name: style.css
     margin: 0 auto;
 }
 
+.featured-in {
+    display: none;
+}
+
+#about {
+    padding-top: 150px;
+}
+
 
 @media screen and (max-width: 700px) {
     .mobile-cover {
@@ -155,6 +163,17 @@ Name: style.css
     .home-logo {
         margin: 80vw auto auto auto;
     }
+
+    .featured-in {
+        display: block;
+    }
+
+    #about {
+        padding-top: unset;
+    }
+    .
+
+
 
 
 }
