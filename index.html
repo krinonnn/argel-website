@@ -440,13 +440,13 @@ If I were to describe to you how would it feel shooting your photographs. Think 
 						<!-- Work -->
 						<div class="images" v-for="index in 74" :key="index">
 
-							<div class="uk-inline-clip uk-transition-toggle" tabindex="0" >
+							<div style="height: 30vh;" class="uk-inline-clip uk-transition-toggle" tabindex="0" >
 
 								<!-- Image -->
 
-								<a v-bind:href="`images/home/grid/0${index}.jpg`">
-									<img v-bind:src="`images/home/grid/0${index}.jpg`" alt="" />
-									<span class="text-lime margin-right-10px"></span>
+								<a style="height: 100%;" v-bind:href="`images/home/grid/0${index}.jpg`">
+									<img style="height: 100%; object-fit: cover" v-bind:src="`images/home/grid/0${index}.jpg`" alt="" />
+									<span class="text-lime margin-right-5px"></span>
 
 								</a>
 
